@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(144, 183, 238);
+}
+.a{
+  
+    text-align: center;
+    font-size: 90px;
+}
+.b{
+    
+  text-align: center;
+  display: grid 1 1 1 1;
+ 
+  
+  
+}
+
+.g{
+    background-color: brown;
+    width: 400px;
+    font-size: 50px;
+    margin: 30px;
+    border: none;
+    border-radius: 40px;
+}
+.l{
+    background-color: rgb(188, 170, 170);
+    width: 400px;
+    font-size: 50px;
+    margin: 30px;
+    border: none;
+    border-radius: 40px;
+}
+.g2{
+    background-color: rgb(42, 165, 147);
+    width: 400px;
+    font-size: 50px;
+    margin: 30px;
+    border: none;
+    border-radius: 40px;
+}
+ .k{
+    background-color: rgb(42, 63, 165);
+    width: 400px;
+    font-size: 50px;
+    border: none;
+    border-radius: 40px;
+ }
